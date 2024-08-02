@@ -4,3 +4,5 @@ Using seven single-frequency antennas (4 at 2.45 GHz and 3 at 5.2 GHz) as the da
 # UP G/D model h5 format
 Those dual-band antenna model(ZIP) is free for reader study only.
 You can download it for personal use.
+# broad-band feature antenna
+
