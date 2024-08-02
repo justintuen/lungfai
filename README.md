@@ -8,4 +8,5 @@ You can download it for personal use.
 ![image](https://github.com/justintuen/lungfai/blob/main/bb.jpg)
 This broadband antenna is using other bb model.
 three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
-
+#Training again
+This G/D(512x512) model can be used to training again for antenna updated.   
