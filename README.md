@@ -5,4 +5,7 @@ Using seven single-frequency antennas (4 at 2.45 GHz and 3 at 5.2 GHz) as the da
 Those dual-band antenna model(ZIP) is free for reader study only.
 You can download it for personal use.
 # broadband feature antenna
-![image]([picture or gif url](https://github.com/justintuen/lungfai/blob/main/bb.jpg))
+![image](https://github.com/justintuen/lungfai/blob/main/bb.jpg)
+This broadband antenna is using other bb model.
+three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
+
