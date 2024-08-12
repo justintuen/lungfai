@@ -14,7 +14,7 @@ This broadband antenna is using other bb model.
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb_g.jpg)
 An antenna can be generated every three seconds for experiments.
 ## Training again
-This G/D(512x512) model can be used to training again for antenna updated. 
+This G/D(512x512) model can be used to training again for new antenna structure updated. 
 ## G/D layers_block
 
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/dis_block.png)
