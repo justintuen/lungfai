@@ -15,8 +15,10 @@ This broadband antenna is using other bb model.
 An antenna can be generated every three seconds for experiments.
 ## Training again
 This G/D(512x512) model can be used to training again for antenna updated. 
-## G/D layers_block 
+## G/D layers_block
+
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/dis_block.png)
+
 This image shows the architectural details of a discriminator model named "model_1," commonly used in Generative Adversarial Networks (GANs). The content includes the name of each layer, the output shape, the number of parameters, and the connections between layers. Here's a breakdown of the main points:
 
 1. **Model Layer Structure**: The image displays each layer in the model, starting from the input layer (`input_2`) to the output layer (`output_dense`). The layers include convolutional layers (`conv2d`), activation layers (`Activation`), pooling layers (`AveragePooling2D`), equalized learning rate layers (`EqualizeLearningRate`), subtraction layers (`TFOpLambda`), and minibatch standard deviation layers (`MinibatchStdev`), among others.
@@ -31,7 +33,9 @@ This image shows the architectural details of a discriminator model named "model
    - Total parameters (`Total params`): 23,070,516
    - Trainable parameters (`Trainable params`): 23,070,497
    - Non-trainable parameters (`Non-trainable params`): 19
+
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/gen_block.png)
+
 This image presents the architectural details of a generator model named "model_1," typically used in Generative Adversarial Networks (GANs). It includes information on each layer's name, output shape, the number of parameters, and the connections between the layers. Here's a detailed explanation:
 
 1. **Model Layer Structure**: The image outlines the layers of the model, starting from the input layer (`input_1`) to the final output layers (`to_rgb_512x512` and `add`). The layers in this model include dense layers (`g_input_dense`), reshaping layers (`Reshape`), convolutional layers (`EqualizeLearningRate`), pixel normalization layers (`PixelNormalization`), activation layers (`LeakyReLU`, `Activation`), upsampling layers (`Upsampling2D`), and addition/multiplication layers (`Add`, `Multiply`), among others.
