@@ -33,5 +33,5 @@ Significance of Each Phase
 - Initial Phase: The model's parameters are adjusting from random values to meaningful ones, attempting to initially learn the basic features of image generation and recognition.
 - Mid Phase: The generative and recognition capabilities of the model gradually improve, with the Generator striving to create more realistic images to outsmart the Discriminator.
 - Later Phase: The model undergoes further fine-tuning, with reduced Loss value variations, approaching a state of convergence where the quality and realism of generated images reach a higher level.
-Conclusion
+## Conclusion
 From the plot, it is evident that during the training of PGGAN, the Generator's Loss value exhibits significant volatility, reflecting its continuous exploration and adjustment to generate high-quality images. In contrast, the Discriminator's Loss value shows smaller fluctuations, indicating more stable image recognition. Overall, the model gradually converges during training, demonstrating PGGAN's capability to effectively learn and progressively improve the quality of generated images.
