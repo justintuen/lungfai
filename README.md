@@ -38,6 +38,7 @@ From the plot, it is evident that during the training of PGGAN, the Generator's 
 
 # Ai GAN vs Tradiational EM Wave
 ![image](https://github.com/justintuen/lungfai/blob/main/numerical_comparison.png)
+
 Summary of Benefits Using AI GAN for Dual-Band Antenna Design
 1.	Time Efficiency:
 Initial Training: Although the initial training takes 384 hours, the GAN model can generate designs extremely quickly once trained.
