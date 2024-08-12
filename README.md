@@ -6,15 +6,15 @@ This dual-band antenna model(ZIP) is free for reader study only.
 You can download it for personal use.
 # Recently new broadband feature antenna
 three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
-![image](https://github.com/justintuen/lungfai/blob/main/bb.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
 This broadband antenna is using other bb model.
 # Generating speed
-![image](https://github.com/justintuen/lungfai/blob/main/bb_g.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb_g.jpg)
 An antenna can be generated every three seconds for experiments.
 # Training again
 This G/D(512x512) model can be used to training again for antenna updated.   
 # G/D loss value
-![image](https://github.com/justintuen/lungfai/blob/main/loss_plot.png)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/loss_plot.png)
 Based on the generated learning curves of the Generator and Discriminator Loss values for PGGAN (Progressive Growing of GANs), the following characteristics can be observed:
 Learning Characteristics Analysis
 Volatility of G_Loss and D_Loss
@@ -37,7 +37,7 @@ Significance of Each Phase
 From the plot, it is evident that during the training of PGGAN, the Generator's Loss value exhibits significant volatility, reflecting its continuous exploration and adjustment to generate high-quality images. In contrast, the Discriminator's Loss value shows smaller fluctuations, indicating more stable image recognition. Overall, the model gradually converges during training, demonstrating PGGAN's capability to effectively learn and progressively improve the quality of generated images.
 
 # Ai GAN vs Tradiational EM Wave
-![image](https://github.com/justintuen/lungfai/blob/main/numerical_comparison.png)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/numerical_comparison.png)
 
 Summary of Benefits Using AI GAN for Dual-Band Antenna Design
 1.	Time Efficiency:
