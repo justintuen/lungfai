@@ -8,6 +8,8 @@ You can download it for personal use.
 three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
 This broadband antenna is using other bb model.
+# Pervious samples
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
 # Generating speed
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb_g.jpg)
 An antenna can be generated every three seconds for experiments.
