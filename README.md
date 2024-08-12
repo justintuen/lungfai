@@ -17,7 +17,36 @@ An antenna can be generated every three seconds for experiments.
 This G/D(512x512) model can be used to training again for antenna updated. 
 ## G/D layers_block 
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/dis_block.png)
+This image shows the architectural details of a discriminator model named "model_1," commonly used in Generative Adversarial Networks (GANs). The content includes the name of each layer, the output shape, the number of parameters, and the connections between layers. Here's a breakdown of the main points:
+
+1. **Model Layer Structure**: The image displays each layer in the model, starting from the input layer (`input_2`) to the output layer (`output_dense`). The layers include convolutional layers (`conv2d`), activation layers (`Activation`), pooling layers (`AveragePooling2D`), equalized learning rate layers (`EqualizeLearningRate`), subtraction layers (`TFOpLambda`), and minibatch standard deviation layers (`MinibatchStdev`), among others.
+
+2. **Output Shape**: The output shape of each layer represents the shape of the tensor output by that layer. For example, the input layer has an output shape of `(None, 512, 512, 3)`, meaning the batch size is undefined (`None`), the spatial dimensions are 512x512, and there are 3 channels (likely RGB images).
+
+3. **Number of Parameters (Param #)**: This indicates the number of parameters that need to be trained in each layer. These parameters determine the complexity of the model. For example, the `Down_512x512_conv2d_2` layer has 18,497 parameters.
+
+4. **Connections Between Layers**: The `Connected to` column describes where each layer's input comes from, i.e., the preceding layers. For instance, the `activation_14` layer's input comes from the `Down_512x512_conv1d_1` layer.
+
+5. **Model Parameter Summary**:
+   - Total parameters (`Total params`): 23,070,516
+   - Trainable parameters (`Trainable params`): 23,070,497
+   - Non-trainable parameters (`Non-trainable params`): 19
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/gen_block.png)
+This image presents the architectural details of a generator model named "model_1," typically used in Generative Adversarial Networks (GANs). It includes information on each layer's name, output shape, the number of parameters, and the connections between the layers. Here's a detailed explanation:
+
+1. **Model Layer Structure**: The image outlines the layers of the model, starting from the input layer (`input_1`) to the final output layers (`to_rgb_512x512` and `add`). The layers in this model include dense layers (`g_input_dense`), reshaping layers (`Reshape`), convolutional layers (`EqualizeLearningRate`), pixel normalization layers (`PixelNormalization`), activation layers (`LeakyReLU`, `Activation`), upsampling layers (`Upsampling2D`), and addition/multiplication layers (`Add`, `Multiply`), among others.
+
+2. **Output Shape**: The output shape of each layer specifies the shape of the tensor produced by that layer. For example, the input layer has an output shape of `(None, 512)`, meaning the batch size is undefined (`None`), and the tensor has 512 elements.
+
+3. **Number of Parameters (Param #)**: This shows the number of parameters to be trained for each layer. For instance, the `g_input_dense` layer has 4,204,297 parameters, indicating its significant role in the model's complexity.
+
+4. **Connections Between Layers**: The `Connected to` column indicates how each layer is connected to previous layers. For example, the `leaky_re_lu_1` layer takes its input from the `g_input_dense` layer.
+
+5. **Model Parameter Summary**:
+   - Total parameters (`Total params`): 25,423,046
+   - Trainable parameters (`Trainable params`): 25,423,046
+   - Non-trainable parameters (`Non-trainable params`): 0
+
 ## G/D loss value
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/loss_plot.png)
 Based on the generated learning curves of the Generator and Discriminator Loss values for PGGAN (Progressive Growing of GANs), the following characteristics can be observed:
