@@ -14,7 +14,10 @@ This broadband antenna is using other bb model.
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb_g.jpg)
 An antenna can be generated every three seconds for experiments.
 ## Training again
-This G/D(512x512) model can be used to training again for antenna updated.   
+This G/D(512x512) model can be used to training again for antenna updated. 
+## G/D layers_block 
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/dis_block_layers.png)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/gen_block_layers.png)
 ## G/D loss value
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/loss_plot.png)
 Based on the generated learning curves of the Generator and Discriminator Loss values for PGGAN (Progressive Growing of GANs), the following characteristics can be observed:
