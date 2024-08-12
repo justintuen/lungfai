@@ -35,3 +35,23 @@ Significance of Each Phase
 - Later Phase: The model undergoes further fine-tuning, with reduced Loss value variations, approaching a state of convergence where the quality and realism of generated images reach a higher level.
 ## Conclusion
 From the plot, it is evident that during the training of PGGAN, the Generator's Loss value exhibits significant volatility, reflecting its continuous exploration and adjustment to generate high-quality images. In contrast, the Discriminator's Loss value shows smaller fluctuations, indicating more stable image recognition. Overall, the model gradually converges during training, demonstrating PGGAN's capability to effectively learn and progressively improve the quality of generated images.
+
+# Ai GAN vs Tradiational EM Wave
+![image](https://github.com/justintuen/lungfai/blob/main/numerical_comparison.png)
+Summary of Benefits Using AI GAN for Dual-Band Antenna Design
+1.	Time Efficiency:
+Initial Training: Although the initial training takes 384 hours, the GAN model can generate designs extremely quickly once trained.
+Rapid Design Generation: The model can produce a single design in 3 seconds, making it possible to generate 10,000 designs in just 8.33 hours. Traditional methods cannot match this speed, as generating 10,000 designs would take an impractical amount of time (approximately 10,000 hours assuming 1 hour per simulation).
+2.	Computational Cost:
+Initial Training Cost: High due to the need for a powerful GPU and CPU setup.
+Low Generation Cost: After training, the resource cost for generating each design is very low, making it highly efficient for large-scale design explorations.
+3.	Iteration Speed:
+Fast Iterations: Each iteration takes only 3 seconds with the AI GAN model, allowing for quick optimization cycles.
+Traditional Methods: Each iteration with traditional methods takes significantly longer (30 minutes to 2 hours), making the optimization process much slower.
+
+# Conclusion
+1. Efficiency Advantage: The AI GAN model significantly outperforms traditional EM wave simulation in terms of speed and efficiency, allowing for rapid generation and evaluation of a large number of designs.
+2. Cost Advantage: Despite the high initial training cost, the ongoing cost of generating new designs is extremely low, making it very cost-effective for extensive design exploration.
+3. Iteration Advantage: The AI GAN method enables rapid iterations, facilitating quick optimizations and adjustments, which is critical for innovative and high-performance antenna designs.
+In this paper, we are using the AI GAN antenna design method provides designers with substantial benefits in terms of efficiency, cost, and iteration speed, compared to traditional EM wave simulation methods. This approach significantly enhances the overall effectiveness and innovation capability of the antenna design process.
+
