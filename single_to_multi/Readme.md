@@ -27,5 +27,9 @@ Here are two of the five sample sources used to train the single-frequency anten
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/sig_2.jpg)
 ## Analysis of simulated and measured AI Antenna's S11 and Radiation Pattern Performance
 
-![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/p7.png)
+<p align="center">
+  <img src="path_to_image/P6.PNG" alt="P6 Case 1" width="200"/>
+  <img src="https://github.com/justintuen/lungfai/blob/main/material/pictures/P6.PNG" alt="P6 Case 2" width="200"/>
+</p>
+![image]()
 ## Fig.1 S11 measurement.
