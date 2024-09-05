@@ -41,8 +41,8 @@ Here are two of the five sample sources used to train the single-frequency anten
 Fig.2 The comparison graph of the antenna's S11 in Paper A under three conditions: original 300mm length (Ai_A_L Measured), shortened length (Ai_A_S Measured) and simulated without cable (Ai_A Simulated). The comparison reveals that the S11 measurement of the antenna after cable length shortening (25mm) does not exhibit the oscillation phenomenon observed in the original paper (with cable length of 300mm)
 
 <p align="center">
-  <img src="2971.JPG" alt="P6 Case 4" width="1200"/>
-  <img src="2972.JPG" alt="P6 Case 5" width="1200"/>
+<img src="2971.JPG" alt="P6 Case 4" width="1200"/>
+<img src="2972.JPG" alt="P6 Case 5" width="1200"/>
 </p>
  
 Figure 3: The polar plots illustrate the radiation patterns of the antenna at two different frequencies (2.97 GHz and 3.32 GHz) across three different planes (Phi = 0°, Phi = 90°, and Theta = 90°). The plots compare the simulated patterns with the measured shortened length ones for the 2.97 GHz frequency, as well as the measured patterns for 3.32 GHz, which is the frequency with the best measured S11 (return loss). The measured radiation efficiency at 3.32 GHz is -1.534 dB (70.22 %). 
