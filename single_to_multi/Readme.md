@@ -32,4 +32,4 @@ Here are two of the five sample sources used to train the single-frequency anten
   <img src="p7.png" alt="P6 Case 2" width="500"/>
 </p>
 
-## Fig.1 S11 measurement.
+## Fig.1 S11 measurement and Ai Gen.antennas.
