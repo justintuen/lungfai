@@ -28,7 +28,7 @@ Here are two of the five sample sources used to train the single-frequency anten
 ## Analysis of simulated and measured AI Antenna's S11 and Radiation Pattern Performance
 
 <p align="center">
-  <img src="material/pictures/P6.PNG" alt="P6 Case 1" width="200"/>
-  <img src="material/pictures/P7.PNG" alt="P6 Case 2" width="200"/>
+  <img src="material/pictures/p6.PNG" alt="P6 Case 1" width="200"/>
+  <img src="material/pictures/p7.PNG" alt="P6 Case 2" width="200"/>
 </p>
 ## Fig.1 S11 measurement.
