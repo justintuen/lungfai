@@ -36,7 +36,6 @@ Here are two of the five sample sources used to train the single-frequency anten
 
 <p align="center">
   <img src="297.jpg" alt="P6 Case 1" width="500"/>
-  <img src="p7.png" alt="P6 Case 2" width="500"/>
 </p>
 
 Fig.2 The comparison graph of the antenna's S11 in Paper A under three conditions: original 300mm length (Ai_A_L Measured), shortened length (Ai_A_S Measured) and simulated without cable (Ai_A Simulated). The comparison reveals that the S11 measurement of the antenna after cable length shortening (25mm) does not exhibit the oscillation phenomenon observed in the original paper (with cable length of 300mm)
