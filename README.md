@@ -94,3 +94,11 @@ Traditional Methods: Each iteration with traditional methods takes significantly
 3. Iteration Advantage: The AI GAN method enables rapid iterations, facilitating quick optimizations and adjustments, which is critical for innovative and high-performance antenna designs.
 In this paper, we are using the AI GAN antenna design method provides designers with substantial benefits in terms of efficiency, cost, and iteration speed, compared to traditional EM wave simulation methods. This approach significantly enhances the overall effectiveness and innovation capability of the antenna design process.
 
+## ML VS CGAN VS PGGAN
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/numerical_comparison.png)
+PGGAN, Conventional Machine Learning (ML), and CGAN—regarding their performance in antenna design. It evaluates various aspects such as advantages, mathematical basis, efficiency, algorithm, goal, potential, novelty, learning approach, post-learning efficiency, and post-learning novelty.
+•	PGGAN is characterized by stable and high-quality generation, though it is time-consuming with lower efficiency. It gradually improves design quality by progressively increasing resolution, making it ideal for high-resolution, complex, and innovative designs.
+•	Conventional Machine Learning (ML) focuses on fast optimization and accurate predictions. It is highly efficient and suitable for rapid iterations but may have limited innovation, relying heavily on data and model-driven designs.
+•	CGAN is highly flexible, generating diverse designs adaptable to specific conditions. It excels in producing novel and innovative designs, especially under unclear conditions, but stability might decrease in certain scenarios.
+The conclusion highlights that PGGAN is best suited for detailed multi-frequency antenna design due to its high-quality output and exploration of novel designs. In contrast, ML is optimal for fast design processes, while CGAN offers flexibility and creativity, generating diverse and innovative designs based on given conditions.
+
