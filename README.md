@@ -95,7 +95,7 @@ Traditional Methods: Each iteration with traditional methods takes significantly
 In this paper, we are using the AI GAN antenna design method provides designers with substantial benefits in terms of efficiency, cost, and iteration speed, compared to traditional EM wave simulation methods. This approach significantly enhances the overall effectiveness and innovation capability of the antenna design process.
 
 ## ML VS CGAN VS PGGAN
-![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/numerical_comparison.png)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/ML_CGAN_PGGAN.png)
 PGGAN, Conventional Machine Learning (ML), and CGAN—regarding their performance in antenna design. It evaluates various aspects such as advantages, mathematical basis, efficiency, algorithm, goal, potential, novelty, learning approach, post-learning efficiency, and post-learning novelty.
 •	PGGAN is characterized by stable and high-quality generation, though it is time-consuming with lower efficiency. It gradually improves design quality by progressively increasing resolution, making it ideal for high-resolution, complex, and innovative designs.
 •	Conventional Machine Learning (ML) focuses on fast optimization and accurate predictions. It is highly efficient and suitable for rapid iterations but may have limited innovation, relying heavily on data and model-driven designs.
