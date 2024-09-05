@@ -4,7 +4,7 @@ Using seven single-frequency antennas (4 at 2.45 GHz and 3 at 5.2 GHz) as the da
 ## UP G/D model h5 format
 This dual-band antenna model(ZIP) is free for reader study only.
 You can download it for personal use.
-## Recently new broadband feature antenna
+## Recently new broadband feature antenna (NEW TRAINING MODEL FOR multi-bb antennas)
 three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
 This broadband antenna is using other bb model.
