@@ -32,10 +32,14 @@ Here are two of the five sample sources used to train the single-frequency anten
   <img src="ANTENNA_DATASET_1.jpg" alt="P6 Case 14" width="500"/>
 </p>
 Using data augmentation methods, 4180 antenna samples were generated, the augmentation process heavily relied on geometric transformations, which included the following key aspects:
-#	Rotation: The antenna designs were rotated at various angles, simulating potential orientation changes during installation or usage. This transformation generates different antenna responses based on the direction of the antenna.
-#	Translation: The antennas were translated to different positions within the design space. This simulates variations in the installation location, helping to generate a more diverse set of data samples.
-#	Position Shifts: Beyond simple translation, precise adjustments were made to the antennas' positions within the design plane or space. These shifts simulate slight positional deviations that might occur during installation, producing more realistic samples.
-#	Slight Distortion: Minor distortions were applied to the antenna structures. These distortions simulate small deformations that might occur due to material properties or manufacturing processes. This technique helps generate more robust samples, preparing the model to handle slight structural variations in real-world applications.
+#	Rotation: 
+The antenna designs were rotated at various angles, simulating potential orientation changes during installation or usage. This transformation generates different antenna responses based on the direction of the antenna.
+#	Translation: 
+The antennas were translated to different positions within the design space. This simulates variations in the installation location, helping to generate a more diverse set of data samples.
+#	Position Shifts: 
+Beyond simple translation, precise adjustments were made to the antennas' positions within the design plane or space. These shifts simulate slight positional deviations that might occur during installation, producing more realistic samples.
+#	Slight Distortion: 
+Minor distortions were applied to the antenna structures. These distortions simulate small deformations that might occur due to material properties or manufacturing processes. This technique helps generate more robust samples, preparing the model to handle slight structural variations in real-world applications.
 By applying these geometric transformation techniques, the data augmentation process produced a more diverse set of antenna samples. These samples not only cover a wide range of possible variations of the original designs but also introduce additional design variations, better supporting subsequent model training and performance evaluation. as shown in Figure 10. These images were mapped to the actual physical antenna sizes using 512x512 (RGB) PNG format. The images were converted to an 1:1 pixel ratio for AI subsequent learning. The Hough transform was utilized to enhance the correlation between antenna dimensions and frequency for feature extraction. These feature points act as labels in antenna design.
 
 ## Analysis of simulated and measured AI Antenna's S11 and Radiation Pattern Performance
