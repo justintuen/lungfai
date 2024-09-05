@@ -26,3 +26,10 @@ Here are two of the five sample sources used to train the single-frequency anten
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/sig_1.jpg)
 
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/sig_2.jpg)
+
+
+
+
+
+
+Fig.1 The left picture shows the antennas comparison with different cable lengths.
