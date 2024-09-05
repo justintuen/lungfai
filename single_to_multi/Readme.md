@@ -20,3 +20,5 @@ Challenges:
 Comparison and Conclusion
 Basic machine learning methods are primarily used to speed up the design and optimization process for single-band antennas, but they often fall short when dealing with the complexities of multi-band antenna design. On the other hand, GANs, as a deep learning model, excel in generating innovative and diverse antenna structures, particularly for multi-band designs.
 In summary, for simple antenna design, machine learning can significantly accelerate the process. However, when it comes to multi-band antenna design, the innovative and multi-objective optimization capabilities of GANs make them a more promising tool.
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/sing_1.tif)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/sing_2.tif)
