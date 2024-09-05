@@ -28,8 +28,8 @@ Here are two of the five sample sources used to train the single-frequency anten
 
 ## 4180 ANTENNAS DATASET
 <p align="center">
-  <img src="Antenna_dataset.jpg" alt="P6 Case 13" width="500"/>
-  <img src="Antenna_dataset_1.jpg" alt="P6 Case 14" width="500"/>
+  <img src="ANTENNA_DATASET.jpg" alt="P6 Case 13" width="500"/>
+  <img src="ANTENNA_DATASET_1.jpg" alt="P6 Case 14" width="500"/>
 </p>
 Using data augmentation methods, 4180 antenna samples were generated, the augmentation process heavily relied on geometric transformations, which included the following key aspects:
 #	Rotation: The antenna designs were rotated at various angles, simulating potential orientation changes during installation or usage. This transformation generates different antenna responses based on the direction of the antenna.
