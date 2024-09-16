@@ -64,7 +64,6 @@ Fig.2 The comparison graph of the antenna's S11 in Paper A under three condition
 
 <p align="center">
 <img src="2971.JPG" alt="P6 Case 4" width="1200"/>
-
 </p>
  
 Figure 3: The polar plots illustrate the radiation patterns of the antenna at two different frequencies (2.97 GHz and 3.32 GHz) across three different planes (Phi = 0°, Phi = 90°, and Theta = 90°). The plots compare the simulated patterns with the measured shortened length ones for the 2.97 GHz frequency, as well as the measured patterns for 3.32 GHz, which is the frequency with the best measured S11 (return loss). The measured radiation efficiency at 3.32 GHz is -1.534 dB (70.22 %). 
@@ -84,14 +83,12 @@ Fig.5 The comparison graph of the antenna's S11 in Paper A under three condition
 
 <p align="center">
 <img src="26231.JPG" alt="P6 Case 9" width="1200"/>  
-<img src="26232.JPG" alt="P6 Case 10" width="1200"/>  
 </p>
  
 Fig.6 The polar plots illustrate the radiation patterns of the antenna at two different frequencies (2.63 GHz and 2.81 GHz) across three different planes (Phi = 0°, Phi = 90°, and Theta = 90°). The plots compare the simulated patterns with the measured shortened length ones for the 2.63 GHz frequency, as well as the measured patterns for 2.81 GHz, which is the frequency with the best measured S11 (return loss). The measured radiation efficiency at 2.81 GHz is -0.643 dB (86.24 %).
 
 <p align="center">
 <img src="26233.JPG" alt="P6 Case 11" width="1200"/> 
-<img src="26234.JPG" alt="P6 Case 12" width="1200"/>  
 </p>
 
 Fig.7 The polar plots illustrate the radiation patterns of the antenna at two different frequencies (5.4 GHz and 5.2 GHz) across three different planes (Phi = 0°, Phi = 90°, and Theta = 90°). The plots compare the simulated patterns with the measured shortened length ones for the 5.4 GHz frequency, as well as the measured patterns for 5.2 GHz, which is the frequency with the best measured S11 (return loss). The measured radiation efficiency at 5.2 GHz is -1.405 dB (72.35 %).
