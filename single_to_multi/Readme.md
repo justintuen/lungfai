@@ -70,7 +70,6 @@ Figure 3: The polar plots illustrate the radiation patterns of the antenna at tw
 
 <p align="center">
 <img src="2973.JPG" alt="P6 Case 6" width="1200"/>
-<img src="2974.JPG" alt="P6 Case 7" width="1200"/>
 </p>
  
 Fig.4 The polar plots illustrate the radiation patterns of the antenna at two different frequencies (5.3 GHz and 5.15 GHz) across three different planes (Phi = 0°, Phi = 90°, and Theta = 90°). The plots compare the simulated patterns with the measured shortened length ones for the 5.3 GHz frequency, as well as the measured patterns for 5.15 GHz, which is the frequency with the best measured S11 (return loss). The measured radiation efficiency at 5.15 GHz is -2.759 dB (52.97 %)
