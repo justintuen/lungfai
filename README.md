@@ -39,6 +39,7 @@ This dual-band antenna model(ZIP) is free for reader study only.
 You can download it for personal use. 
 ## How to use this model ? 
 https://drive.google.com/file/d/14yHSt95wfGdOeqCy5hSNNuSolD0YohSh/view?usp=sharing
+
 After downloading the "antenna.zip" file and generator model(512x512_generator.h5), extract it.
 The file is relatively large because I included all the Python-related files that will be imported together.
 Please create two directories on the D drive: "antenna_model" and "antenna_samples". The "antenna_model" directory is for storing the model(512x512_generator.h5), and the "antenna_samples" directory is for storing the generated antennas. Finally, Run the execution(antenna.exe). 
