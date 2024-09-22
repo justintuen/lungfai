@@ -43,7 +43,7 @@ https://drive.google.com/file/d/14yHSt95wfGdOeqCy5hSNNuSolD0YohSh/view?usp=shari
 After downloading the "antenna.zip" file and generator model(512x512_generator.h5), extract it.
 The file is relatively large because I included all the Python-related files that will be imported together.
 Please create two directories on the D drive: "antenna_model" and "antenna_samples". The "antenna_model" directory is for storing the model(512x512_generator.h5), and the "antenna_samples" directory is for storing the generated antennas. Finally, Run the execution(antenna.exe). 
-The generation of antenna samples is done in multiples of two.
+The generation of antenna samples is done in multiples of two each times.
 ## Recently new broadband feature antenna (NEW TRAINING MODEL FOR multi-bb antennas)
 three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
