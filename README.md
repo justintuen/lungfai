@@ -53,7 +53,6 @@ three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb ante
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/5.jpg)
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/6.jpg)
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/7.jpg)
-![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
 This broadband antenna is using other bb model.
 ## Pervious Ai antenna sample
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/github.jpg)
