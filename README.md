@@ -47,6 +47,12 @@ The generation of antenna samples is done in multiples of two each times.
 ## Recently new broadband feature antenna (NEW TRAINING MODEL FOR multi-bb antennas)
 three single band antenna(2.45,3.4 and 5.2GHZ) to achieve this whole new bb antenna. One of antenna is included broadband feature.
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/1.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/2.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/3.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/4.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/5.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/6.jpg)
+![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/7.jpg)
 ![image](https://github.com/justintuen/lungfai/blob/main/material/pictures/bb.jpg)
 This broadband antenna is using other bb model.
 ## Pervious Ai antenna sample
