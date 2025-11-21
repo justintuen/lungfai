@@ -38,7 +38,7 @@ The application of PGGAN not only improved the quality of generated data but als
 In summary, the technical evolution in this study started with traditional GANs, progressed to WGAN, and ultimately chose PGGAN to address the limitations of traditional GAN and WGAN in generating high-dimensional data. This process demonstrates how iterative technological advancements can resolve common issues in Generative Adversarial Networks, ultimately achieving stable and high-quality antenna natural generation. The paper illustrates how the evolution of GAN technology, from traditional GAN to WGAN, and finally to PGGAN, overcame model shortcomings and achieved stable and high-quality antenna generation. This progression not only solved issues of training instability and insufficient generation quality but also highlighted the importance of technological improvements in enhancing the generation of high-dimensional data.
 
 ## UP G/D model h5 format
-This dual-band antenna model(ZIP) is free for reader study only.
+This dual-band antenna model(ZIP) is free for reader study only(version 2024.11).
 You can download it for personal use. 
 ## How to use this model ? 
 https://drive.google.com/file/d/14yHSt95wfGdOeqCy5hSNNuSolD0YohSh/view?usp=sharing
